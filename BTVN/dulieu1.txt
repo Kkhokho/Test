@@ -1,0 +1,20 @@
+DR02
+Ban chai rang colgate 1kg 
+Unilever
+6
+DR01
+Kem danh rang colgate 200gr
+Unilever
+12
+DG03
+Dau goi dau Sunsilk 300ml 
+Unilever
+30
+DG02
+Dau goi dau Clear 1000ml 
+Unilever
+2
+DG01
+Dau goi dau Clear 500ml 
+Unilever
+14
